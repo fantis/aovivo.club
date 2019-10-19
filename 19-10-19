@@ -62,10 +62,15 @@ http://edge.aovivo.club/hls/s:155.138.227.156/tooncast_8effee40_cdee82f1572bdf9f
 #EXTINF:0 group-title="Infantil",  tooncast 1
 http://orcus.tvcast.xyz/hls/s:155.138.227.156/tooncast_8effee40_cdee82f1572bdf9f1d18bb686501d51ae1fde3d7/480p/chunklist.m3u8
 
+#EXTINF:0 group-title="Infantil",  tooncast 
+https://cdnfe1.azureedge.net/hls1/tooncast.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAxOSAxOjUyOjE0IFBNJmhhc2hfdmFsdWU9d1pOdmJWMEgyeloyM1FiK2VLMHdVQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
 #EXTINF:0 group-title="Infantil", Boomerang
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/boomerang_2659fc51_5ea845dd1e459565765a93fa8803de762d510e7a.m3u8
 #EXTINF:0 group-title="Infantil", Boomerang 1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_5ea845dd1e459565765a93fa8803de762d510e7a.m3u8
+#EXTINF:0 group-title="Infantil", Boomerang 
+https://cdnfe1.azureedge.net/hls1/boomerang.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAxOSAxOjI0OjQzIEFNJmhhc2hfdmFsdWU9RWd6bmNiSCtxS2R2dTdhaFZPRHErZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 ######################## Filme e Series ########################
 
@@ -75,6 +80,8 @@ http://172.105.148.146/hls/s:95.216.15.44:81/multishow_5f573b82_07711636d31eea4f
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_07711636d31eea4f57f7230cb09656671500c345.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
+https://cdnfe1.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAxOSAxMToyMzoyMCBQTSZoYXNoX3ZhbHVlPW02ckZXbTVHbU5tUXlnM1U3WWVLcWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", A&E Mundo
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/aemundo_c28aca23_8e600c536c521d38d9c44b7c132cffdb9109c805/playlist.m3u8
