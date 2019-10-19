@@ -71,8 +71,6 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_5ea845dd1e45956
 
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
-http://orcus.tvcast.xyz/hls/s:155.138.226.22/telecinepremium_a929eb33_3ab0a9aa51aa43ae1a8aef65866716557d0137d1/480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
 http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_dcb0dccbfb8324ff412ec4cb097313d31034edf5.m3u8
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/multishow_5f573b82_dcb0dccbfb8324ff412ec4cb09731
