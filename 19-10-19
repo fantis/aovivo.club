@@ -69,13 +69,12 @@ http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_5ea845dd1e45956
 
 ######################## Filme e Series ########################
 
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
+http://172.105.148.146/hls/s:95.216.15.44:81/multishow_5f573b82_07711636d31eea4f57f7230cb09656671500c345.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_dcb0dccbfb8324ff412ec4cb097313d31034edf5.m3u8
-#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
-http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/multishow_5f573b82_dcb0dccbfb8324ff412ec4cb09731
-#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
-http://172.105.148.165/hls/s:95.216.15.44:81/multishow_5f573b82_dcb0dccbfb8324ff412ec4cb097313d31034edf5.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_07711636d31eea4f57f7230cb09656671500c345.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", A&E Mundo
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/aemundo_c28aca23_8e600c536c521d38d9c44b7c132cffdb9109c805/playlist.m3u8
