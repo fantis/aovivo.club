@@ -1,1 +1,53 @@
-a
+#EXTM3U size="Medium"
+http://aovivo.club/
+
+######################## infantil ########################
+
+
+#EXTINF:-1 group-title="Infantil", NatGeo Kids
+http://euporie.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_470618d71fca2b473bbb6f3f2ed9e991a53e15f5.m3u8
+http://edge.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_470618d71fca2b473bbb6f3f2ed9e991a53e15f5.m3u8
+http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_470618d71fca2b473bbb6f3f2ed9e991a53e15f5.m3u8
+
+#EXTINF:-1 group-title="Infantil", Cartoon Network
+http://orthosie.tvcast.xyz/hls/s:155.138.227.156/cartoonnetwork_511a418e_a8ff712fa8e7d3e43f51067f8552c7fea9f7851b/410p/chunklist.m3u8
+http://orcus.tvcast.xyz/hls/s:155.138.227.156/cartoonnetwork_511a418e_a8ff712fa8e7d3e43f51067f8552c7fea9f7851b/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.156/cartoonnetwork_511a418e_a8ff712fa8e7d3e43f51067f8552c7fea9f7851b/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Discovery Kids
+http://eirene.tvcast.xyz/hls/s:155.138.227.45/discoverykids_80e28a51_51356ec87dda2133473f5164509fe6313a2643ce/480p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.45/discoverykids_80e28a51_51356ec87dda2133473f5164509fe6313a2643ce/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney XD
+http://edge.aovivo.club/hls/s:155.138.227.45/disneyxd_d094700e_3a39ee0ca8224e6ac611ca152ea69836a6894c5b/410p/chunklist.m3u8
+http://orcus.tvcast.xyz/hls/s:155.138.227.45/disneyxd_d094700e_3a39ee0ca8224e6ac611ca152ea69836a6894c5b/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney Junior
+http://edge.aovivo.club/hls/s:155.138.226.22/disneyjunior_572e2073_4646626cbe1cb11a7d65b50770914d779edf296b/480p/chunklist.m3u8
+http://eunomia.tvcast.xyz/hls/s:155.138.226.22/disneyjunior_572e2073_4646626cbe1cb11a7d65b50770914d779edf296b/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney Channel
+
+
+#EXTINF:-1 group-title="Infantil", Gloob
+http://172.105.151.177/hls/s:155.138.227.45/nickjr_54ceb912_033af4c902f79626cff5a4d27c87848a63fdbe33/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.156/gloob_04f1241e_03388e83f8488187c8cd06501f3ff765fda8ce64/410p/chunklist.m3u8
+http://euporie.tvcast.xyz/hls/s:155.138.227.156/gloob_04f1241e_03388e83f8488187c8cd06501f3ff765fda8ce64/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nickelodeon
+http://orcus.tvcast.xyz/hls/s:155.138.227.156/nickelodeon_bc33ea4e_0568ac15a09d372e4d0d61aba3e490aa601dc5e0/410p/chunklist.m3u8
+http://edge.aovivo.club/hls/s:155.138.227.156/nickelodeon_bc33ea4e_0568ac15a09d372e4d0d61aba3e490aa601dc5e0/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nick Jr.
+http://edge.aovivo.club/hls/s:155.138.227.156/nickjr_54ceb912_08949884b26b5810650c00ec1c06a65a28fd2a10/410p/chunklist.m3u8
+http://orthosie.tvcast.xyz/hls/s:155.138.227.156/nickjr_54ceb912_08949884b26b5810650c00ec1c06a65a28fd2a10/410p/chunklist.m3u8
+https://r3---sn-bg07dnsr.c.2mdn.net/videoplayback/id/064f3b0eb3fc6e98/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3711980090/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/4464B981C0D83AB612BBA634CEF64121A1B21314.73516DAF6877FF6AA8C233F2618F4451AB05FC8B/key/cms1/cms_redirect/yes/mip/138.121.129.110/mm/42/mn/sn-bg07dnsr/ms/onc/mt/1571492609/mv/m/mvi/2/pl/24/file/file.mp4
+
+#EXTINF:-1 group-title="Infantil",  tooncast
+http://edge.aovivo.club/hls/s:155.138.227.156/tooncast_8effee40_cdee82f1572bdf9f1d18bb686501d51ae1fde3d7/480p/chunklist.m3u8
+http://orcus.tvcast.xyz/hls/s:155.138.227.156/tooncast_8effee40_cdee82f1572bdf9f1d18bb686501d51ae1fde3d7/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Boomerang
+
+
+######################## Filme e Series ########################
