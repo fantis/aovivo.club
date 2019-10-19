@@ -4,67 +4,67 @@ http://aovivo.club/
 ######################## infantil ########################
 
 
-#EXTINF:-1 group-title="Infantil", NatGeo Kids
+#EXTINF:0 group-title="Infantil", NatGeo Kids
 http://euporie.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_470618d71fca2b473bbb6f3f2ed9e991a53e15f5.m3u8
-#EXTINF:-1 group-title="Infantil", NatGeo Kids 1
+#EXTINF:0 group-title="Infantil", NatGeo Kids 1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_470618d71fca2b473bbb6f3f2ed9e991a53e15f5.m3u8
-#EXTINF:-1 group-title="Infantil", NatGeo Kids 2
+#EXTINF:0 group-title="Infantil", NatGeo Kids 2
 http://thallo.tvcast.xyz/hls/s:95.216.15.44:81/natgeokids_8746b7e5_470618d71fca2b473bbb6f3f2ed9e991a53e15f5.m3u8
 
-#EXTINF:-1 group-title="Infantil", Cartoon Network
+#EXTINF:0 group-title="Infantil", Cartoon Network
 http://orthosie.tvcast.xyz/hls/s:155.138.227.156/cartoonnetwork_511a418e_a8ff712fa8e7d3e43f51067f8552c7fea9f7851b/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Cartoon Network 1
+#EXTINF:0 group-title="Infantil", Cartoon Network 1
 http://orcus.tvcast.xyz/hls/s:155.138.227.156/cartoonnetwork_511a418e_a8ff712fa8e7d3e43f51067f8552c7fea9f7851b/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Cartoon Network 2
+#EXTINF:0 group-title="Infantil", Cartoon Network 2
 http://edge.aovivo.club/hls/s:155.138.227.156/cartoonnetwork_511a418e_a8ff712fa8e7d3e43f51067f8552c7fea9f7851b/410p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Discovery Kids
+#EXTINF:0 group-title="Infantil", Discovery Kids
 http://eirene.tvcast.xyz/hls/s:155.138.227.45/discoverykids_80e28a51_51356ec87dda2133473f5164509fe6313a2643ce/480p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Discovery Kids 1
+#EXTINF:0 group-title="Infantil", Discovery Kids 1
 http://edge.aovivo.club/hls/s:155.138.227.45/discoverykids_80e28a51_51356ec87dda2133473f5164509fe6313a2643ce/480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Disney XD
+#EXTINF:0 group-title="Infantil", Disney XD
 http://edge.aovivo.club/hls/s:155.138.227.45/disneyxd_d094700e_3a39ee0ca8224e6ac611ca152ea69836a6894c5b/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Disney XD 1
+#EXTINF:0 group-title="Infantil", Disney XD 1
 http://orcus.tvcast.xyz/hls/s:155.138.227.45/disneyxd_d094700e_3a39ee0ca8224e6ac611ca152ea69836a6894c5b/410p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Disney Junior
+#EXTINF:0 group-title="Infantil", Disney Junior
 http://edge.aovivo.club/hls/s:155.138.226.22/disneyjunior_572e2073_4646626cbe1cb11a7d65b50770914d779edf296b/480p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Disney Junior 1
+#EXTINF:0 group-title="Infantil", Disney Junior 1
 http://eunomia.tvcast.xyz/hls/s:155.138.226.22/disneyjunior_572e2073_4646626cbe1cb11a7d65b50770914d779edf296b/480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Disney Channel
+#EXTINF:0 group-title="Infantil", Disney Channel
 http://edge.aovivo.club/hls/s:155.138.227.156/disneychannel_a9334987_831877dd6a305b24fe74627c5568d754a8c843dd/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Disney Channel 1
+#EXTINF:0 group-title="Infantil", Disney Channel 1
 http://thallo.tvcast.xyz/hls/s:155.138.227.156/disneychannel_a9334987_831877dd6a305b24fe74627c5568d754a8c843dd/410p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Gloob
+#EXTINF:0 group-title="Infantil", Gloob
 http://172.105.151.177/hls/s:155.138.227.45/nickjr_54ceb912_033af4c902f79626cff5a4d27c87848a63fdbe33/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Gloob 1
+#EXTINF:0 group-title="Infantil", Gloob 1
 http://edge.aovivo.club/hls/s:155.138.227.156/gloob_04f1241e_03388e83f8488187c8cd06501f3ff765fda8ce64/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Gloob 2
+#EXTINF:0 group-title="Infantil", Gloob 2
 http://euporie.tvcast.xyz/hls/s:155.138.227.156/gloob_04f1241e_03388e83f8488187c8cd06501f3ff765fda8ce64/410p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Nickelodeon
+#EXTINF:0 group-title="Infantil", Nickelodeon
 http://orcus.tvcast.xyz/hls/s:155.138.227.156/nickelodeon_bc33ea4e_0568ac15a09d372e4d0d61aba3e490aa601dc5e0/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Nickelodeon 1
+#EXTINF:0 group-title="Infantil", Nickelodeon 1
 http://edge.aovivo.club/hls/s:155.138.227.156/nickelodeon_bc33ea4e_0568ac15a09d372e4d0d61aba3e490aa601dc5e0/410p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Nick Jr.
+#EXTINF:0 group-title="Infantil", Nick Jr.
 http://edge.aovivo.club/hls/s:155.138.227.156/nickjr_54ceb912_08949884b26b5810650c00ec1c06a65a28fd2a10/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Nick Jr. 1
+#EXTINF:0 group-title="Infantil", Nick Jr. 1
 http://orthosie.tvcast.xyz/hls/s:155.138.227.156/nickjr_54ceb912_08949884b26b5810650c00ec1c06a65a28fd2a10/410p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil", Nick Jr. 2
+#EXTINF:0 group-title="Infantil", Nick Jr. 2
 https://r3---sn-bg07dnsr.c.2mdn.net/videoplayback/id/064f3b0eb3fc6e98/itag/343/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3711980090/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/4464B981C0D83AB612BBA634CEF64121A1B21314.73516DAF6877FF6AA8C233F2618F4451AB05FC8B/key/cms1/cms_redirect/yes/mip/138.121.129.110/mm/42/mn/sn-bg07dnsr/ms/onc/mt/1571492609/mv/m/mvi/2/pl/24/file/file.mp4
 
-#EXTINF:-1 group-title="Infantil",  tooncast
+#EXTINF:0 group-title="Infantil",  tooncast
 http://edge.aovivo.club/hls/s:155.138.227.156/tooncast_8effee40_cdee82f1572bdf9f1d18bb686501d51ae1fde3d7/480p/chunklist.m3u8
-#EXTINF:-1 group-title="Infantil",  tooncast 1
+#EXTINF:0 group-title="Infantil",  tooncast 1
 http://orcus.tvcast.xyz/hls/s:155.138.227.156/tooncast_8effee40_cdee82f1572bdf9f1d18bb686501d51ae1fde3d7/480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Infantil", Boomerang
+#EXTINF:0 group-title="Infantil", Boomerang
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/boomerang_2659fc51_5ea845dd1e459565765a93fa8803de762d510e7a.m3u8
-#EXTINF:-1 group-title="Infantil", Boomerang 1
+#EXTINF:0 group-title="Infantil", Boomerang 1
 http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_5ea845dd1e459565765a93fa8803de762d510e7a.m3u8
 
 ######################## Filme e Series ########################
@@ -567,11 +567,11 @@ http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/bandnews_aee544ce_7997689ce78f082f
 ######################## Canais Musica ########################
 
 
-#EXTINF:-1 group-title="Canais Musica", TV Rádio Êxodo
+#EXTINF:0 group-title="Canais Musica", TV Rádio Êxodo
 https://r2---sn-bg0ezn7l.c.2mdn.net/videoplayback/id/c0b92ce7548b3455/itag/346/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3703409168/sparams/acao,ctier,expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,mvi,pl,source/signature/06AE17A7F0E91C2A3A27E44FA5C6035AA7B0FF95.3218E044EEB666E7B9E19505E6D4F13A143F6A2D/key/cms1/cms_redirect/yes/mip/138.121.129.110/mm/42/mn/sn-bg0ezn7l/ms/onc/mt/1571496262/mv/m/mvi/1/pl/24/file/file.mp4
-#EXTINF:-1 group-title="Canais Musica", TV Rádio Êxodo
+#EXTINF:0 group-title="Canais Musica", TV Rádio Êxodo
 https://cdn.jmvstream.com/w/cam73/_definst_/cam73/chunklist_w1718893959.m3u8
-#EXTINF:-1 group-title="Canais Musica", TV Rádio Êxodo
+#EXTINF:0 group-title="Canais Musica", TV Rádio Êxodo
 https://cdn.jmvstream.com/w/cam73/_definst_/cam73/chunklist_w1084222397.m3u8
 
 
@@ -678,3 +678,26 @@ http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/vh1_a29e971b_143a42d32c579b2ffdf
 
 #EXTINF:0 tvg-logo="" group-title="Esportes", Space
 
+
+
+##### filmes ####
+
+#EXTINF:0 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homem-Aranha: Longe de Casa HD
+http://thor.lhmtv.gq/filmes/homemaranhalongedecasa-dub-1080p.mp4?LHMTv
+
+##### series #####
+
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E01
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E01.mkv?LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E02
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E02.mkv?LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E03
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E03.mkv?LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E04
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E04.mkv?LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E05
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E05.mkv?LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E06
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E06.mkv?LHMTv
+#EXTINF:0 tvg-logo="http://lhmtv.tech/series/marte1.jpg" group-title="Marte", 1T-E07
+http://vidar.lhmtv.gq/Series/Marte.1/Marte.S01E07.mkv?LHMTv
