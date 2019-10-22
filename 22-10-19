@@ -1,0 +1,248 @@
+#EXTM3U size="Medium"
+http://aovivo.club/
+
+#EXTINF:-1 group-title="Infantil", NatGeo Kids
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_4fe0842134d5b2ae2a49b62e20457b1e7409124c.m3u8
+
+#EXTINF:-1 group-title="Infantil", Cartoon Network
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_cf9155ed69f4f3eff135dd3dc8a4dfd75834a33f/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Discovery Kids
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_95e45cbe36bc594d31aaf9490c77bfbcdd2efca8/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney XD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyxd_d094700e_844babb159d63454390aeff8b485411f0974938a.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney Junior
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyjunior_572e2073_37725a565e1e4dbcb9d16163076a6741756d2ea2.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney Channel
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_32f4e6680eafcd834640852c00802f691e77a387.m3u8
+
+#EXTINF:-1 group-title="Infantil", Gloob
+http://edge-aws.aovivo.club/hls/s:66.228.62.225/gloob_04f1241e_de468e7600e8e63ceeea0a1928900edb4d022f2c/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nickelodeon
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickelodeon_bc33ea4e_385adb566583a33fb0d27a60095fe46fd0556d7b.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nick Jr.
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickjr_54ceb912_8dc85fcd7fdba19ce9aa344d65d00e1a8042097c/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil",  tooncast
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_40b238588fdd44963e6583acfab40b05681b3348/playlist.m3u8		
+
+#EXTINF:-1 group-title="Infantil", Boomerang
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_068b209d42bc7d069de80a2c26a86e88d024364b/playlist.m3u8	
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", A&E Mundo
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", FX
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Touch
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Premium HD
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Premium
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Pipoca HD
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Pipoca
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Fun
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Cult
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Action HD
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Action
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Signature 720p
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Plus 480p n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Plus 1080p
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Plus *e
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Family
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO 2 720p
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO 1080p
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Sony
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox Premium 2
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox Premium 1 n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox HD
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox Life
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", TNT
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", TNT Series
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", AMC Brasil
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", AXN
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Cinemax 720p
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Cinemax 480p
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Paramount Channel n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", TCM
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Universal Channel
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Studio Universal
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Megapix
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Lifetime n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Max UP
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Max Prime
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Max n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Warner Channel
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Investigação Discovery n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Prime Box Brazil n
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Space
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", National Geographic
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", History HD
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", NatGeo Wild
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", History
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", H2
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery World
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Turbo
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Theater n
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Science n
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Home & Health
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Civilization
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Channel
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Animal Planet
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Investigação Discovery n
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Futura
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Canal FCV
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", A Fazenda
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Syfy
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", TLC n
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", + Globosat n
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Viva
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", TBS n
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", GNT 
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", E! Entertainment
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Comedy Central
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Canal Off
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Food Network
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Curta!
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Arte 1
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Globo News
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Band News
+
+#EXTINF:-1 group-title="Canais Musica", TV Rádio Êxodo
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", Multishow HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_6176b1ed2b0033f95b7a2610d32d3258a237051c.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", MTV Brasil HD n
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_502ed4b7aaff6e6e634ff980b57884c98b8bcfd2/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", MTV Brasil
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_42550a85ded6c96324409e955b36e5f321f890a0.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", Bis
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bis_53e56691_ff211c4fc1f837d5b375d18a293b2226c962dc1b.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", VH1
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/vh1_a29e971b_143a42d32c579b2ffdf7950c2f93738152dc2893.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Canal Combate
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", FishTV
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", SporTV 3
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", SporTV 2 HD
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", SporTV 2
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", SporTV
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Fox Sports HD
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Fox Sports 2 HD
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Fox Sports 2
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Fox Sports
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Espn Plus
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Espn
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Espn Brasil
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 2
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 3
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 4
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 5
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 6
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 7
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Premiere FC 8 nao
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", PFC Clubes
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Band Sports
+
+#EXTINF:0 tvg-logo="" group-title="Esportes", Space
