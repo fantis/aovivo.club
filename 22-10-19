@@ -1,38 +1,41 @@
 #EXTM3U size="Medium"
 http://aovivo.club/
 
+
 #EXTINF:-1 group-title="Infantil", NatGeo Kids
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_4fe0842134d5b2ae2a49b62e20457b1e7409124c.m3u8
+
 
 #EXTINF:-1 group-title="Infantil", Cartoon Network
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_cf9155ed69f4f3eff135dd3dc8a4dfd75834a33f/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/cartoonnetwork_511a418e_6825c871f77ee163173d16a4ee1523ac58c3bd5a/410p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Discovery Kids
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_95e45cbe36bc594d31aaf9490c77bfbcdd2efca8/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/discoverykids_80e28a51_95e45cbe36bc594d31aaf9490c77bfbcdd2efca8/480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Disney XD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyxd_d094700e_844babb159d63454390aeff8b485411f0974938a.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/disneyxd_d094700e_844babb159d63454390aeff8b485411f0974938a/410p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Disney Junior
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyjunior_572e2073_37725a565e1e4dbcb9d16163076a6741756d2ea2.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/disneyjunior_572e2073_37725a565e1e4dbcb9d16163076a6741756d2ea2/480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Disney Channel
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_32f4e6680eafcd834640852c00802f691e77a387.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/disneychannel_a9334987_8c90dd0a7704fb43170853985912075afb2710b3/410p_820kbit/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Gloob
-http://edge-aws.aovivo.club/hls/s:66.228.62.225/gloob_04f1241e_de468e7600e8e63ceeea0a1928900edb4d022f2c/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/gloob_04f1241e_8677343902214a81d0d56f4030f462474c1fec9f/410p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Nickelodeon
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickelodeon_bc33ea4e_385adb566583a33fb0d27a60095fe46fd0556d7b.m3u8
+
 
 #EXTINF:-1 group-title="Infantil", Nick Jr.
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nickjr_54ceb912_8dc85fcd7fdba19ce9aa344d65d00e1a8042097c/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/nickjr_54ceb912_8dc85fcd7fdba19ce9aa344d65d00e1a8042097c/410p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil",  tooncast
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_40b238588fdd44963e6583acfab40b05681b3348/playlist.m3u8		
+http://edge-aws.aovivo.club/hls/s:104.237.6.239:81/tooncast_8effee40_c2493d1a099b1b2a0597e644a63475607c2bc3d9/480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Infantil", Boomerang
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_068b209d42bc7d069de80a2c26a86e88d024364b/playlist.m3u8	
+
+
+
 
 #EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_6176b1ed2b0033f95b7a2610d32d3258a237051c.m3u8
