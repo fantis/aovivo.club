@@ -151,38 +151,55 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_068b209d42b
 #EXTINF:0 tvg-logo="" group-title="Documentario", Investigação Discovery n
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Futura
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1114800139.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Canal FCV
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w2102614737.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", A Fazenda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_d3c0e36193ba8d3e8a2ea33f7720a0dcc030e4f1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Syfy
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/syfy_097ccd4f_2aaf329b686f0651053bf5365c138578f1b95466/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", TLC n
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tlc_15aa0c7e_418770ae12eb10fdc6a28d4a544d0a315e9370d0/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", + Globosat n
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosat_30222b26_839eb7ed6b4c03d8d1f89dcc74aef29c402f2523.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Viva
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/viva_5d00f2c6_50a04aca5483112d5a9a8e4b4c9f88eebdb4c9c7/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", TBS n
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tbs_91eb375e_ea242aa789a5ea1e94004f3433420f89676a4611/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", GNT 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/gnt_c439c60b_b6be5e91c630b9d891f9857a80cbcd92d1008396/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", E! Entertainment
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/eentertainment_fe2fb474_a091e08a00b6d754b8f2986ade60d34bf0e6d114/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Comedy Central
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_da3d3bfc5460be36aac242361e0361324be312d0/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Canal Off
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canaloff_12f0de3d_24a2141b3a6eb212c34f2c0d1d396d0b1542e041.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Food Network
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_435eb75c8f0ad7b7bbe1a3aa7c11b080ea39688e/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Curta!
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/canalcurta_9d6ad3cc_1c4c3ca7b0581922a4230241de990f9230570328.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Arte 1
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/arte1_cf94db48_58bcf7eff791c40f798a3d3d074bd6a2bc8e0d87.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Globo News
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_f5873f3320b36f4fce6729043ddd950748977115.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Variedades", Band News
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_d6df06ab215eb9e8da5428cf395feac716881e06.m3u8
 
 #EXTINF:-1 group-title="Canais Musica", TV Rádio Êxodo
 
