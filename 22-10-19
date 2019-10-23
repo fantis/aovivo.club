@@ -256,6 +256,9 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_f5873f3320b
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/bandnews_aee544ce_c43eae706b9b8a2d76965a612d95cfdb73213989.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Canais Musica", Multishow HD
+https://cdnfe1.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAxOSA3OjM2OjM4IFBNJmhhc2hfdmFsdWU9M3pDcVJqVlBwWHlqeWFHd01CL2REQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", Multishow HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_6176b1ed2b0033f95b7a2610d32d3258a237051c.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Canais Musica", Multishow HD
