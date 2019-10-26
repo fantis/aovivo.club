@@ -2,13 +2,14 @@
 
 
 #EXTINF:0, multishow
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/multishow_5f573b82_e903c2792b23b264125bdc529566ba57d32615a6.m3u8
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/multishow_5f573b82_b6b6e47cc9202b32572007c3fb8e5364b22635a9.m3u8
 
 #EXTINF:0, mtv brasil
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/mtvbrasil_7719a1c7_ba31a99d56fa4b3109d384f1d955b39d15e7076b.m3u8
 
 #EXTINF:0, mtv hd
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_aff216095fa1e0624070359c504583cf25eb4dcb/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/mtvbrasilhd_5dca4777_ae5ee96b717a7e4c196d956cc0e37a0e03933875.m3u8
 
 #EXTINF:0, tooncast
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_b3d3ffa97c4ecec4cdebac4a8f876f11aa6564bc/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_0ed9d2b4b99d4a7d7defe8a17c15b19550506830/playlist.m3u8
+
