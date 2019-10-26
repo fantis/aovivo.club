@@ -9,3 +9,6 @@ http://edge-aws.aovivo.club/hls/s:78.47.74.192/mtvbrasil_7719a1c7_ba31a99d56fa4b
 
 #EXTINF:0, mtv hd
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_aff216095fa1e0624070359c504583cf25eb4dcb/playlist.m3u8
+
+#EXTINF:0, tooncast
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_b3d3ffa97c4ecec4cdebac4a8f876f11aa6564bc/playlist.m3u8
