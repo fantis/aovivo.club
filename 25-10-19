@@ -1,0 +1,5 @@
+#EXTM3U size="Medium"
+
+
+#EXTINF:0, multishow
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/multishow_5f573b82_e903c2792b23b264125bdc529566ba57d32615a6.m3u8
