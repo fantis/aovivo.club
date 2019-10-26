@@ -4,5 +4,8 @@
 #EXTINF:0, multishow
 http://edge-aws.aovivo.club/hls/s:78.47.3.135/multishow_5f573b82_e903c2792b23b264125bdc529566ba57d32615a6.m3u8
 
-#EXTINF:0, mtv rasil
+#EXTINF:0, mtv brasil
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/mtvbrasil_7719a1c7_ba31a99d56fa4b3109d384f1d955b39d15e7076b.m3u8
+
+#EXTINF:0, mtv hd
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_aff216095fa1e0624070359c504583cf25eb4dcb/playlist.m3u8
