@@ -1,0 +1,286 @@
+
+#EXTM3U size="Medium"
+http://aovivo.club/
+
+######################## infantil ########################
+
+#EXTINF:-1 group-title="Infantil", NatGeo Kids
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/natgeokids_8746b7e5_b9ddb221d47107acfe518aeef7a29aa827125dfe.m3u8
+
+#EXTINF:-1 group-title="Infantil", Cartoon Network
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_482e034c2951f93d4a634239d8343aca7a0681f1/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Discovery Kids
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/discoverykids_80e28a51_85ffe39a37ea090e64cb8fb6cca8277a4b87972b/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney XD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyxd_d094700e_8271e466803c42e9a1fcf2455211b05d335326fe.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney Junior
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/disneyjunior_572e2073_866161d4be01cadfd58429f15e3b97942bead6c6/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Disney Channel x
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_78dcd1bdf36a02cee7f45063310347fbbf2ba45a.m3u8
+
+#EXTINF:-1 group-title="Infantil", Gloob
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/gloob_04f1241e_0a2bef2eb5fdb185b10cb7b8958eff49978eccff/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nickelodeon
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/nickelodeon_bc33ea4e_600968dc4095ecfad42276b2c062bf73080fdc37/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Nick Jr.
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/nickjr_54ceb912_a00597ad309207297f8ff5cc338e3ef01d4a2e0e/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil",  tooncast
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/tooncast_8effee40_4ee9cb85e2f67484504362e927ab40abf0b7ee2a/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Infantil", Boomerang
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_aa0dbaf1cfd5814b70b0363c2bf879ea769eb84a/playlist.m3u8
+
+######################## Filme e Series ########################
+
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Multishow HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_b6b6e47cc9202b32572007c3fb8e5364b22635a9.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", A&E Mundo
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_2eec3a0b25eb3605bf7fbd512939d1288f0fa9df/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", FX
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/fx_667be543_12547e5c42aed1fb9391004a3f8ec91411345ca9/720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Touch
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/telecinetouch_74cbd2c2_2d4838f78ff212591d70f092b261cfda35e6b398.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Premium HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_0939841d17d256fbfddcc6ce792d5ae1d587c834/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Premium
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/telecinepremium_a929eb33_e8bca3b4b9268e901f8defe18852e9b3fa82730c/480p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Pipoca HD
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/telecinepipocahd_ae7329c9_086c709259c4a0226d1532947231a00145cc53d3.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_08ae6f0c5f3a8416779c05ff4c85854a60170e6b.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Fun x
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinefun_ae1e7198_df4022f7921eed16d9e72182cf3f0cdcb56be448.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Cult
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/telecinecult_8d255e1e_9eeeff981d9f2c08f4fd3ba52755b176871e9bb7.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Action HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_db8f26fb45c9a3bb0ca57d2bc9cb73d1541a4a8f/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Telecine Action
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_7ab6650a046e38915ffa6296ff5c0ffe42c42699.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Signature 720p
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/hbosignature720p_fa1a6512_5ee9ab1dd73a428b04347d85ff912b6cb6718a0c.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Plus 480p 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_3932d813ee88a3f9fc99255696e663446bcef58c/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Plus 1080p
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_2c7f0296ec76b21fe3b2f39eb105ab22400d04de.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Plus *e x
+https://cdnfe1.azureedge.net/hls1/hboplus.m3u8?wmsAuthSign=
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO Family
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/hbofamily_536fb693_ca69f482fbc11e7d111d3c4414eb8a00df857712.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO 2 720p
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_66ea4431ccb29af4312bc2ad334212d7f0cf21dd/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", HBO 1080p
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_8e85d8679018b376b8a4b439f67f8c4e64a3d69f.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Sony
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_29c29d9ae3c11a1f5e9316339b4ce553359a7b50/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox Premium 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium2_2456caf1_c830684043c1da9ab6625c28c02c17a82d711258.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox Premium 1 
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/foxpremium1_1bdf1a2f_42c53111f300a4765b0d4a6d5d915d1bc6b21062.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox HD x
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_f1813c33183cd6d86302bf9d61578e80909c9530/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox x
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_f1813c33183cd6d86302bf9d61578e80909c9530/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Fox Life
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/foxlife_66435217_72bbf2e859ae9900068bc6e5d652d13da74f561a.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_eec725082f659be2a2c058cbce80b10d9f656417.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", TNT Series
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/tntseries_3bb18d9a_dddd0a7ffdad51e545ce8b55d914759400b344a5.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", AMC Brasil
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/amcbrasil_b7f5113f_f1c01200e276d0a89563cff431d1eab30f757076/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", AXN
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_f9697382dd4c85c36df194c1567eaf26be2bd99b.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Cinemax 720p
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_b8d7ba1bc93d3bdc06e2e45d20500d06d6c16c26/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Cinemax 480p
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/cinemax480p_22d200f8_09933ce1b9f522ea846b8503fee4adddb041f609/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Paramount Channel 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/paramountchannel_efa260ad_9cab5774f771de80fc80ce1ecc73638314a7fe40.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", TCM
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/tcm_13b72490_8151e6660d06d0d7d4fe52603ddbb4e8ece80f41/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Universal Channel
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/universalchannel_8290abc6_698f7cb5f3398ba6afb739a974a0ebbf6f85633b/360p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Studio Universalx
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/studiouniversal_8b4753ed_d5ad33a2626ef1bc4d29e14338ee6dcfdeefa069.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Megapix
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/megapix_a6f16ab4_3ba1f901a1d48b28af63a5f8d9494d2ecd82f2e2/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Lifetime
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/lifetime_7a9ca14d_a93a58c514883338fe4b46fffd7158d1dc278d95.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Max UP
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/maxup_ce09b127_59bd6540a52cfada825737a7a7f719b3dd94b061.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Max Prime
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/maxprime_9c676e00_1e263d499d57e0713dd30a4676cbce3bcc56feeb.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Max 
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/max_9f682df2_64657b48afddb7b9beaf486cd82211f11d88eabd.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Warner Channel
+http://edge-aws.aovivo.club/hls/s:192.99.169.90/warnerchannel_0a57cb53_4ccb691de11fb17b62c2c07fabaff1c234f4e72a/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Investigação Discovery 
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_7b071914d47a6578054ecba5d573e14cf048ca34/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Prime Box Brazil x
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/primeboxbrazil_ed29c0d8_8749c1e9a9b83aaea706874ff4b22446e7965ca4.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Filme e Series", Space
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/space_e6c3dd63_170e9ca86d1acc3f7abe7a41515b667ef6d17a59.m3u8
+
+######################## Documentarios ########################
+
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", National Geographic
+http://172.105.153.139/hls/s:192.99.169.90/nationalgeographic_2e01e174_e84414acc4971c9d46231f7fc79b5bb71fbf0b4b/720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", History HD
+http://orcus.tvcast.xyz/hls/s:94.177.242.28/historyopcao2_00a8a5c3_9a5395702e2de478c17112b94704709dfbbbfa53/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", NatGeo Wild
+http://172.105.151.177/hls/s:192.99.169.90/natgeowild_e4dd8a3f_198dc1a48415876324225c4b47337d641076d05f/480p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", History
+http://192.155.95.85/hls/s:192.99.169.90/history_b7eb6c68_15f73d916c908f6f323ea818db852a3cc1468e22/410p_830kbit/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", H2 x
+http://66.228.56.95/hls/s:95.216.15.44:81/h2_2bfba6b3_6ddf8832f4e32898653f468a8cf43d073c3c2af0.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery World
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/discoveryworld_68b79337_712c14ce3da8a131d572368de11d431b69e80589.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Turbo
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/discoveryturbo_ca3512f4_5f10caaa354e67e6bf159cd09fdf8422128f9c06.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Theater 
+http://192.155.95.85/hls/s:78.47.3.135/discoverytheater_904f2cc1_013eef83b02db302d06f4940b39e4b2e759744cb.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Science x
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/discoveryscience_77c8184f_190b0eec2198e0fd6f3e1358149d9b7a154bc6b1.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Home & Health
+http://172.105.148.146/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_63f0a5d5be73ca68f741e7479287408dc46ca83e/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Civilization
+http://172.105.151.177/hls/s:95.216.15.44:81/discoverycivilization_2473f015_a12c0a6c5d35cd0d9e8c8353c75cc487cd4f1530.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Discovery Channel
+http://172.105.149.61/hls/s:192.99.169.90/discoverychannel_af3e1334_0eb68afaeb086eaf3c375140b8eec37b8335c430/480p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Animal Planet
+http://orcus.tvcast.xyz/hls/s:192.99.169.90/animalplanet_e114c448_cad3efc45307acbd79fae6366bdf4c7279cb51f5/480p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Documentario", Investigação Discovery
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_7b071914d47a6578054ecba5d573e14cf048ca34/playlist.m3u8
+
+######################## Variedades ########################
+
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", A Fazenda
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/afazenda_70ac2ffc_e037c2b9a0545e74e243e077393644e6c5a15f4c/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Syfy
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/syfy_097ccd4f_fb0eb15932dfeeef3d94f1d04f895523ddefab2b/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", TLC
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tlc_15aa0c7e_49c57976fbf0b2a8ba8b0206a19322c0a854eedc/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", + Globosat x
+http://172.105.150.112/hls/s:78.46.240.155/globosat_30222b26_ba7920e538a4a8ecfc9ec6481e85c60cc3db7cfe.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Viva
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/viva_5d00f2c6_863846c8c569fca0021518a84f4904f6fcf4ffce/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", TBS x
+http://172.105.149.61/hls/s:95.216.15.44:81/tbs_91eb375e_ea242aa789a5ea1e94004f3433420f89676a4611/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", GNT 
+http://172.105.151.177/hls/s:192.99.169.90/gnt_c439c60b_aca7cf4aa14c634e73a99964c972cab9e8a977d2/410p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", E! Entertainment
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/eentertainment_fe2fb474_ce3d431cba5882ad38332dfbfcd13d0fea0f4a23/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Comedy Central
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_2e9831ad682a01ad5d95fec38d06811111dcb731/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Canal Off x
+http://epimetheus.tvcast.xyz/hls/s:78.47.3.135/canaloff_12f0de3d_32df85fc62eeb872aa6c73a1001123f394da3ee2.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Food Network
+http://orcus.tvcast.xyz/hls/s:94.177.242.28/foodnetwork_ceab25ab_6075a79ed4bad4b7e57ea11d1d46541c0135dd35.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Curta!
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/canalcurta_9d6ad3cc_aa8333dc4496ee5c7375aeaa54de34c9a0af5439.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Arte 1
+http://epimetheus.tvcast.xyz/hls/s:78.47.74.192/arte1_cf94db48_1376fdfd7cf45bfd70417c6f218e2e0c3e40985b.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Globo News x
+http://66.228.56.95/hls/s:78.46.240.155/globonews_dc685e2c_e481e5a1e77e2335ce46c56303e078d3e9135a58.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Variedades", Band News
+http://172.105.155.4/hls/s:78.47.3.135/bandnews_aee544ce_c00b200bba65d455103ee0be48cd9888d88ab8bd.m3u8
+
+######################## Canais Musica ########################
+
+
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", Multishow HD x
+http://orcus.tvcast.xyz/hls/s:78.47.3.135/multishow_5f573b82_b6b6e47cc9202b32572007c3fb8e5364b22635a9.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", MTV Brasil HD x
+http://172.105.151.177/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_ae5ee96b717a7e4c196d956cc0e37a0e03933875/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", MTV Brasil x
+http://172.105.153.139/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_4d22dc532fedfe12ff959b72b83a209c2bfc460e.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", Bis
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/bis_53e56691_c77acc831630cd40a79e5ec2766cd5bd21d2706e.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Canais Musica", VH1 x
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/vh1_a29e971b_143a42d32c579b2ffdf7950c2f93738152dc2893.m3u8
+
