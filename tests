@@ -1,0 +1,28 @@
+#EXTM3U size="Medium"
+
+		1ª Temporada
+		
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E01 - Piloto
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP01.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E02 - Erros E Omissões
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP02.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E03 - Vantagens
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP03.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E04 - Segredinhos Sujos
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP04.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E05 - Fiança
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP05.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E06 - Ossos Do Ofício
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP06.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E07 - Conheça O Adversário
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP07.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E08 - Crise De Identidade
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP08.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E09 - Invicto
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP09.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E10 - Vida De Fachada
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP10.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E11 - A Regra Do Jogo
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP11.mp4?attachment=true	
+#EXTINF:0 tvg-logo="http://versuitsonline.com/images/logo.jpg" group-title="Suits", 1T-E12 - Briga De Cachorro Grande
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SUTST01EP12.mp4?attachment=true	
