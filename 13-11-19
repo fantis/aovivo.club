@@ -1,0 +1,5 @@
+#EXTM3U
+http://aovivo.club/
+
+#EXTINF:0, PFC Clubes
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_86aaad02f9e3a30a4033cddbdd32b9d34bff869c/playlist.m3u8
