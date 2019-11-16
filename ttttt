@@ -1,0 +1,13 @@
+#EXTM3U size="Medium"
+
+#EXTINF:0 description="TRAILER DA SERIE",GREYS ANATOMY
+#EXTBG:https://2.bp.blogspot.com/-Y2arDyZw4Uc/WRUST1PKCGI/AAAAAAAAHPM/zsp8ayyzv38d3k1HO_rhxk_qpBOA2mcUwCLcB/s1600/1.jpg
+http://br.vid.web.480p.acsta.net/uk/medias/nmedia/55/15/09/17/17/19546909_m_013.mp4
+
+#EXTINF:-1 description=“1 TEMPORADA”, EP 01
+#EXTBG: #363636
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP01.mp4
+
+#EXTINF:-1 description=“1 TEMPORADA”, EP 02
+#EXTBG: #363636
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP02.mp4
