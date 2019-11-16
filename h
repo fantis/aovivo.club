@@ -1,4 +1,4 @@
-#EXTM3U size="Medium"
+#EXTM3U size="big"
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8mt44ka" group-title="STAR TREK" ,STAR TREK
 #EXTBG: https://tinyurl.com/y8mt44ka
