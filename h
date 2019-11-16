@@ -7,7 +7,7 @@
 http://webtvcde.com/Series/Star.Trek.1/T01E01.O.Sal.da.Terra.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="huck" ,huck
-#EXTBG: https://media.fstatic.com/Lpo58GtUDAwW3DFeZkkMLE4CPEU=/fit-in/290x478/smart/media/movies/covers/2018/09/268x0w_ckORp5q.jpg
+#EXTBG big: https://media.fstatic.com/Lpo58GtUDAwW3DFeZkkMLE4CPEU=/fit-in/290x478/smart/media/movies/covers/2018/09/268x0w_ckORp5q.jpg
 
 #EXTINF:-1 tvg-logo="" group-title="huck 1" ,huck 1
 https://media.fstatic.com/Lpo58GtUDAwW3DFeZkkMLE4CPEU=/fit-in/290x478/smart/media/movies/covers/2018/09/268x0w_ckORp5q.jpg
